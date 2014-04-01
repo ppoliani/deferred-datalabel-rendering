@@ -1,0 +1,26 @@
+{
+    "name": "deferred-datalabels-rendering",
+    "version": "1.0.1",
+    "title": "deferred datalabels rendering",
+    "demo": [
+        "http://jsfiddle.net/g5TT6/"
+    ],
+    "author": {
+        "name": "Pavlos Polianidis",
+        "url": "https://github.com/ppoliani"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/ppoliani/deferred-datalabel-rendering/blob/master/LICENSE"
+        }
+    ],
+    "description": "This feature delays the rendergin of datalabels for after the chart is completely rendered",
+    "keywords": [
+     "datalabels",
+     "rendering"
+    ],
+    "dependencies": {
+        "Highcharts": ">=3.0.0"
+    }
+}
